@@ -1,0 +1,10 @@
+*.o
+*.so
+*.swp
+~*
+*.pid
+.DS_Store
+
+.com.apple.timemachine.supported
+.rvmrc
+.bundle
