@@ -1,6 +1,6 @@
 # ColorString
 
-Coloring strings for console without mnkey patching
+Coloring strings for console without monkey patching
 
 # Usage
 
